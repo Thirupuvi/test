@@ -11,7 +11,7 @@ public class CoreJavaThiru {
 		a=s.nextInt();
 		b=s.nextInt();
 		c=a+b;
-		System.out.println("The Sum Of "+a+" and "+b+" Is"+c);
+		System.out.println("The Sum Of "+a+" ddd "+b+" Is"+c);
 
 	}
 
