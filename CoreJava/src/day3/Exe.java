@@ -6,7 +6,7 @@ public class Exe {
 		Customer cl=new Customer();
 		cl.setAddress("TamilNadu");
 		cl.setCid(10);
-		cl.setName("Puvi");
+		cl.setName("Thiru");
 		System.out.println("ID: "+cl.getCid()+"\nName: "+cl.getName()+"\nADDRESS: "+cl.getAddress());
 		
 	}
