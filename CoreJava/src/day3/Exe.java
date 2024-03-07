@@ -12,7 +12,7 @@ public class Exe {
 		System.out.println("ID: "+cl.getCid()+"\nName: "+cl.getName()+"\nADDRESS: "+cl.getAddress());
 		c2.setAddress("TamilNadu");
 		c2.setCid(10);
-		c2.setName("Thiru");
+		c2.setName("Ruu");
 		System.out.println(c2);
 		System.out.println(c3);
 		
